@@ -11,7 +11,7 @@ We used data mining techniques to extract meaningful insights from datasets incl
 - `customerBuy`
 - `customerBuysFrequency`
 
-Our goal was to discover hidden patterns and trends related to customer purchasing behaviors.
+Our goal was to discover **hidden patterns and trends related to customer purchasing behaviors**.
 
 ### 2. Data Preprocessing
 Before applying the Apriori algorithm, we performed data preprocessing steps such as:
